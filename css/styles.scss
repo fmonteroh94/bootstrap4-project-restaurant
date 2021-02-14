@@ -10,7 +10,10 @@ $carousel-item-height: 300px;
 	margin:0px auto;
 	padding: $pad-up-dn $pad-left-right;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 22051c663187d52cd148f8f5734989c5fac2a042
 .row-header{
     @include zero-margin(0px,0px);
 }
@@ -73,6 +76,7 @@ body{
     position: absolute;
     bottom: 0px;
     z-index: 1;
+<<<<<<< HEAD
 }
 
 .modal-header{
@@ -87,4 +91,6 @@ body{
 
 .modal-body{
     background: $background-pale;
+=======
+>>>>>>> 22051c663187d52cd148f8f5734989c5fac2a042
 }
